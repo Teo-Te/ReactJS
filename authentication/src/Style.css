@@ -1,0 +1,32 @@
+.col-md-4{
+    background-image: linear-gradient(to bottom right, black, cyan);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.5);
+
+}
+.btn{
+    background-color: #4ca5af !important;
+    border: none;
+    color: white !important;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer !important;
+    border-radius: 10px;
+    border-color: white !important;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+.btn:hover{
+   background-color: transparent !important;
+   position: relative ;
+   overflow: hidden ;
+}
